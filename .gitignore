@@ -1,0 +1,8 @@
+./sigstoreprivkey
+./gencert
+./ca-key.pem
+./cert.pem
+./import-cosign.key
+./import-cosign.pub
+./key.pem key2.pem
+./passwd
